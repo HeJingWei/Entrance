@@ -1,3 +1,3 @@
 # Entrance
 MVP框架
-以后要学着多用github管理记录自己的代码
+过时啦！还是学google的mvvm全套
